@@ -1,0 +1,16 @@
+.custom-spinner .ant-spin-dot i {
+  background-color: #C71DA5 !important;
+}
+body{
+  background-color: #EFF6FF;
+}
+
+:where(.css-dev-only-do-not-override-apn68).ant-pagination .ant-pagination-item-active a {
+  color: #C71DA5 !important;
+}
+
+:where(.css-dev-only-do-not-override-apn68).ant-pagination .ant-pagination-item-active {
+  font-weight: 600;
+  background-color: #ffffff;
+  border-color:#C71DA5 !important;
+}
